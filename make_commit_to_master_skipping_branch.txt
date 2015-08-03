@@ -1,0 +1,3 @@
+I have created a first-feature branch and commit and push to the remote repo
+Now I push commit to master 
+I should need to merge first-feature to master. 

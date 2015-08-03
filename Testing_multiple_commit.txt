@@ -1,0 +1,3 @@
+make multiple commits locally and one push 
+Would it keeps tracks with my commit? 
+

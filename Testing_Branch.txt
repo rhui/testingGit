@@ -1,1 +1,3 @@
 Create 2 commits and run a git log between origin/master and first_feature/HEAD
+
+Create 2nd commit
